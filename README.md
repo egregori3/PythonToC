@@ -29,4 +29,5 @@ Negative i and j are interpreted as n + i and n + j where n is the number of ele
 | b[:,[3,4,5]]            |  array([[ 3, 4, 5],      [13, 14, 15]])                                       |
 
 
-					
+### C Array
+For a C array of size array[a][b], array[c][d] accesses the same element as array[(c*b)+d]; b is referred to as stride.					
