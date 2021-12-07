@@ -1,4 +1,4 @@
-#define DATA_TYPE float_complex_t
+#define DATA_TYPE int
 #define NA        INT32_MAX
 
 /******************************************************************************/
